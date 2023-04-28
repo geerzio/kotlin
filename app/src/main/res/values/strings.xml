@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aplicattion_1</string>
+    <string name="hint_segundo_numero">Segundo numero</string>
+    <string name="hint_primer_numero">Primer numero</string>
+    <string name="btn_apretar">Sumar</string>
+    <string name="txt_resultado" />
+    <string name="numero_1">Numero 1</string>
+    <string name="sumar">Sumar</string>
+    <string name="numero_2">Numero 2</string>
+</resources>
